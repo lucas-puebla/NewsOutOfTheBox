@@ -2,8 +2,7 @@
 Facebook Hackathon Project - Santiago, Chile 2017
 
 Authors:
-Constanza Fierro
-Rodrigo Lara Molina
+Francisco Madrid
 Joaquín Muñoz
 Lucas Puebla Silva
 
